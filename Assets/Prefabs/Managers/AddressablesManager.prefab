@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5852097527471874381
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5852097527471874355}
+  - component: {fileID: 5852097527471874380}
+  m_Layer: 0
+  m_Name: AddressablesManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5852097527471874355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5852097527471874381}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.3886982, y: -1.0260514, z: -9.832249}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5852097527471874380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5852097527471874381}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd31ca8270be0764aa890c5c1eaf6f5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioPlayer: {fileID: 398827848489720509, guid: 3c36be5273e06b24c8f76571bb9dc62c, type: 3}
+  exposionSFX:
+    m_AssetGUID: 9e47b08cd51422845a824d9fee97b2da
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  coinSFX:
+    m_AssetGUID: a177922f73b2a87419b96aa6e81d72ae
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  magicSFX:
+    m_AssetGUID: 8f65beb77f4d3224aa79cd67b5f1011d
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  coinSprite:
+    m_AssetGUID: cd1bc36084c02974f86d25935060bfff
+    m_SubObjectName: bronze_coin
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  coinRenderer: {fileID: 3224317716051864406, guid: e52971a4544f53c42bb3f5123226f718, type: 3}
+  gem3Sprite:
+    m_AssetGUID: 81ed6dd99de01c243b06c10201ba927a
+    m_SubObjectName: gem_3
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  gem3Renderer: {fileID: 4408700855608018669, guid: a960c2bf713a32640a8c3fa8d3c8debf, type: 3}
+  gem4Sprite:
+    m_AssetGUID: 23fc6487bbe36c243a399785ba582eef
+    m_SubObjectName: gem_4
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  gem4Renderer: {fileID: 818443784942513598, guid: 0fd2f6f71dcaead4686b7c9d285f3029, type: 3}
+  forest2Sprite:
+    m_AssetGUID: 5ca4cca794164da4998673c61f018a56
+    m_SubObjectName: 02_Forest
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  forest2Renderer: {fileID: 0}
+  forest3Sprite:
+    m_AssetGUID: 1f9f9ffa09a26014d898d07f9896cd5d
+    m_SubObjectName: 03_Forest
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  forest3Renderer: {fileID: 0}
+  forest4Sprite:
+    m_AssetGUID: f9c08397547dbc74d81b0b3831229f12
+    m_SubObjectName: 04_Forest
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  forest4Renderer: {fileID: 0}
+  forest5Sprite:
+    m_AssetGUID: 3dda082662719514b8fa93911e760e0f
+    m_SubObjectName: 05_Forest
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  forest5Renderer: {fileID: 0}
+  particle6Sprite:
+    m_AssetGUID: 767de8d508911a94b82618daff5e5ec4
+    m_SubObjectName: 06_Particles
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  particle6Renderer: {fileID: 0}
+  forest7Sprite:
+    m_AssetGUID: 465ef5098094fe7469616fca56973b60
+    m_SubObjectName: 07_Forest
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  forest7Renderer: {fileID: 0}
+  particle8Sprite:
+    m_AssetGUID: 4911c57eb1b289b4588041c3a0735b11
+    m_SubObjectName: 08_Particles
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  particle8Renderer: {fileID: 0}
+  bushes9Sprite:
+    m_AssetGUID: 5ce502a7ea7810b4a894499b06c1f846
+    m_SubObjectName: 09_Bushes
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  bushes9Renderer: {fileID: 0}
+  coinTexture:
+    m_AssetGUID: cd1bc36084c02974f86d25935060bfff
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  coinImg: {fileID: 0}

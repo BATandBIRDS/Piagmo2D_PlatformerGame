@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6984153e24f2c694fb34dc1f61c250af
+  m_SerializeEntries:
+  - m_GUID: 8f65beb77f4d3224aa79cd67b5f1011d
+    m_Address: Assets/Audio/magicSFX.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e47b08cd51422845a824d9fee97b2da
+    m_Address: Assets/Audio/SFX_Explosion_Simple.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a177922f73b2a87419b96aa6e81d72ae
+    m_Address: Assets/Audio/coinSFX.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd1bc36084c02974f86d25935060bfff
+    m_Address: Assets/ExternalAssets/Free Game Items/150dpi/bronze_coin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcd91c5eb4a6abf449effbf62d61848e
+    m_Address: Assets/Prefabs/BackGround.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 81ed6dd99de01c243b06c10201ba927a
+    m_Address: Assets/ExternalAssets/Free Game Items/150dpi/gem_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23fc6487bbe36c243a399785ba582eef
+    m_Address: Assets/ExternalAssets/Free Game Items/150dpi/gem_4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ca4cca794164da4998673c61f018a56
+    m_Address: Assets/Sprites/02_Forest.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f9f9ffa09a26014d898d07f9896cd5d
+    m_Address: Assets/Sprites/03_Forest.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9c08397547dbc74d81b0b3831229f12
+    m_Address: Assets/Sprites/04_Forest.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3dda082662719514b8fa93911e760e0f
+    m_Address: Assets/Sprites/05_Forest.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 767de8d508911a94b82618daff5e5ec4
+    m_Address: Assets/Sprites/06_Particles.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 465ef5098094fe7469616fca56973b60
+    m_Address: Assets/Sprites/07_Forest.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4911c57eb1b289b4588041c3a0735b11
+    m_Address: Assets/Sprites/08_Particles.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ce502a7ea7810b4a894499b06c1f846
+    m_Address: Assets/Sprites/09_Bushes.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a65cf43f2e3ab2f49b0be63394be7684, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d24645e1430896148b52d553f5d04c02, type: 2}
+    - {fileID: 11400000, guid: 7438a9a55d4ae4f4b91d814e311a19e7, type: 2}
